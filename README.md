@@ -13,7 +13,7 @@ MathQuiz is a C# application that allows instructors to set up math questions an
 * Open the solution file (MathQuizApp.sln) in Visual Studio
 * Build the solution to restore dependencies and compile the application
 
-# Usage
+# Usage Example
 * Launch the student application
 
   ![image](https://github.com/YunChen2023/MathQuiz/assets/143974178/15965d8d-e9d4-42b4-b92a-d11ae99a174d)
